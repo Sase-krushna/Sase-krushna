@@ -12,3 +12,9 @@
  [LinkedIn](https://www.linkedin.com/in/krushnasase28/) | 
  [GitHub](https://github.com/Sase-krushna) | 
  [LeetCode](https://leetcode.com/u/krushna-/)
+
+
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Sase-krushna&show_icons=true&theme=radical)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sase-krushna&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sase-krushna&layout=compact&theme=radical)
