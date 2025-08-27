@@ -1,6 +1,6 @@
-🌟 Hi, I'm Krushna sase!
+# 🌟 Hi, I'm Krushna sase!
 
-🚀 About Me
+# 🚀 About Me
 
 🎓 3rd Year Computer Engineering Student @ AVCOE
 💻 Skilled in Java, Spring Boot, SQL, and front-end technologies (HTML, CSS, JavaScript)
@@ -10,17 +10,17 @@
 📚 Preparing for placements with focus on Java + Core CS fundamentals
 🤝 Open to collaborations on Java-based projects, Web Development, and AI/ML
 
-💬 Ask me about: Java, Spring Boot, DSA, or Web Development
+💬 Ask me about: Java, Spring Boot, DSA, or Web Development 
  [LinkedIn](https://www.linkedin.com/in/krushnasase28/) | 
  [GitHub](https://github.com/Sase-krushna) | 
  [LeetCode](https://leetcode.com/u/krushna-/)
+#     
 
-
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Sase-krushna&show_icons=true&theme=radical)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sase-krushna&theme=radical)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sase-krushna&layout=compact&theme=radical)
-
+#
 
 ## 🚀 Featured Projects  
 
@@ -31,8 +31,9 @@
 | [**Library Management System**](https://github.com/Sase-krushna/Library_management_System) 📚 | HTML, CSS, JavaScript | - Add, issue, and return books <br> - Search functionality for quick access <br> - Responsive, interactive UI |
 
 
-
+#
 ### 🛠️ Tech Stack & Tools  
+#
 
 | **Category**      | **Technologies** |
 |-------------------|------------------|
@@ -42,18 +43,18 @@
 | **Database**      | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) |
 | **Tools & Others**| ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) ![VSCode](https://img.shields.io/badge/-VSCode-0078d7?logo=visualstudiocode) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide) |
 
-
+#
 ### 💻 Problem Solving & Competitive Programming  
-
+#
 - 🌱 Currently practicing **Data Structures & Algorithms (DSA)**  
 - 🧩 Exploring problem-solving on:  
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode)](https://leetcode.com/krushna-)  
  
 - 🚀 Focused on **arrays, strings, recursion, and core problem-solving patterns**  
 
-
+#
 ### 🌐 Connect with Me  
-
+#
 <p align="left">
   <a href="https://linkedin.com/in/krushnasase28" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -68,3 +69,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+#
