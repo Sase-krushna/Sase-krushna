@@ -63,3 +63,12 @@
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode)](https://leetcode.com/krushna-)  
  
 - 🚀 Focused on **arrays, strings, recursion, and core problem-solving patterns**  
+
+
+### 🤝 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/krushnasase28)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Sase-krushna)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/krushna-)  
+[![Email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:sasekrushna28L@gmail.com)  
+
