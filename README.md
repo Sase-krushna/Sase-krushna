@@ -1,3 +1,5 @@
+🌟 Hi, I'm Krushna sase!
+
 🚀 About Me
 
 🎓 3rd Year Computer Engineering Student @ AVCOE
