@@ -1,16 +1,14 @@
-## Hi there 👋
+🚀 About Me
 
-<!--
-**Sase-krushna/Sase-krushna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Engineering Student @ AVCOE
+💻 Skilled in Java, Spring Boot, Python, SQL, and MERN Stack
+🌱 Currently exploring AI, Machine Learning, and Data Analytics
+🧩 Strong foundation in Data Structures, Algorithms, DBMS, and OS
+🚀 Passionate about building impactful projects that solve real-world problems
+📚 Preparing for placements with focus on Core CS + Problem Solving
+🤝 Open to collaborations on Full Stack Development, AI/ML, and Java-based projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about: Java, Spring Boot, DSA, or Web Development
+📫 How to reach me: LinkedIn
+ | GitHub
+ | LeetCode
