@@ -26,7 +26,7 @@
 
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
-| [**Advanced Calculator with History**](https://github.com/YSase-krushnaE/Advance_calculator) 🧮 | Java (Swing), Spring Boot, HTML, CSS, JS | - Perform arithmetic & scientific operations <br> - **History panel** with reuse/delete features <br> - Persistent storage with database integration <br> - Desktop GUI + Responsive Web Interface <br> - Clean MVC architecture |
+| [**Advanced Calculator with History**](https://github.com/Sase-krushnaE/Advance_calculator) 🧮 | Java (Swing), Spring Boot, HTML, CSS, JS | - Perform arithmetic & scientific operations <br> - **History panel** with reuse/delete features <br> - Persistent storage with database integration <br> - Desktop GUI + Responsive Web Interface <br> - Clean MVC architecture |
 | [**Bank Management System**](https://github.com/Sase-krushna/Bank_management_system) 🏦 | Core Java (OOP, Collections, Exception Handling) | - Account creation, deposits & withdrawals <br> - Transaction history tracking <br> - **Loan management with interest calculation** <br> - Secure exception handling |
 | [**Library Management System**](https://github.com/Sase-krushna/Library_management_System) 📚 | HTML, CSS, JavaScript | - Add, issue, and return books <br> - Search functionality for quick access <br> - Responsive, interactive UI |
 
