@@ -2,7 +2,7 @@
 
 # 🚀 About Me
 
-🎓 3rd Year Computer Engineering Student @ AVCOE
+🎓 4rd Year Computer Engineering Student @ AVCOE
 💻 Skilled in Java, Spring Boot, SQL, and front-end technologies (HTML, CSS, JavaScript)
 🌱 Currently exploring AI, Machine Learning, and Data Analytics
 🧩 Strong foundation in Data Structures, Algorithms, DBMS, and Operating Systems
